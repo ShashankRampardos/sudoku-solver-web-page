@@ -51,4 +51,4 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/sudoku-solver-web.git
+git clone https://github.com/shashankrampardos/sudoku-solver-web-page.git
