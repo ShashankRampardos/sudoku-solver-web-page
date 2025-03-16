@@ -42,7 +42,8 @@
 
 ## 🖼️ Screenshot
 
-![Sudoku Solver Screenshot]([link-to-screenshot.png](https://github.com/ShashankRampardos/sudoku-solver-web-page/blob/main/suduko%20solver%20screen%20shot.png))
+![Sudoku Solver Screenshot](https://github.com/ShashankRampardos/sudoku-solver-web-page/blob/main/suduko%20solver%20screen%20shot.png?raw=true)
+
 
 ---
 
